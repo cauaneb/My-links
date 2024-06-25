@@ -1,7 +1,7 @@
 <h1 align="center"> MyLinks </h1>
 
 <p align="center">
-Project created by Rocketseat's "Discover" course.<br/>
+Project suggested by Rocketseat's "Discover" course.<br/>
 </p>
 
 <p align="center">
