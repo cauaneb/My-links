@@ -1,15 +1,14 @@
 <h1 align="center"> MyLinks </h1>
 
 <p align="center">
-Projeto feito pelo curso Discover da Rocketseat <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+Project created by Rocketseat's "Discover" course.<br/>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -18,27 +17,27 @@ Projeto feito pelo curso Discover da Rocketseat <br/>
 
 <br>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML & CSS
 - JavaScript
-- Git e Github
+- Git & Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-O MyLinks é um agregador de links para usar como cartão de visitas online.
+MyLinks is a link aggregator to use as an online business card.
 
-- [Acesse o projeto online](https://cauaneb.github.io/mylinks)
+- [Access the project here](https://cauaneb.github.io/My-links/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Layout used as an example in [Figma](https://www.figma.com/community/file/1187422022288947321).
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
 
 ---
